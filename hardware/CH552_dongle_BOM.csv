@@ -1,0 +1,8 @@
+﻿"No.","Quantity","Comment","Designator","Footprint","Value","Manufacturer Part","Manufacturer","Supplier Part","Supplier"
+"1","2","100nF","C1,C2","C0603","100nF","","","",""
+"2","1","Jumper_Pad_2","JP1","JUMPER-PAD-2","","","","undefined",""
+"3","1","SMD-Wire-Pad-10x3mm","P1","SMD-PAD-10X3","","","","",""
+"4","1","10K","R1","R0603","10K","","","",""
+"5","1","CH552P","U1","VQFN-16_L3.0-W3.0-P0.50-BL-EP1.7","","CH552P","WCH","C968536","LCSC"
+"6","1","WS2812C-2020-V6","U3","LED-SMD_4P-L2.2-W2.0-P1.00_WS2815C-2020-4P","","WS2812C-2020-V6","worldsemi","C55109522","LCSC"
+"7","1","USBPCB","X1","USB-A-PCB","","","","",""
